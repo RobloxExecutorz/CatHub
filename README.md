@@ -4,10 +4,11 @@ If it is patched use Solara or Nova executor.
 Solara: https://github.com/RobloxExecutorz/Solara or https://discord.gg/getsolara
 Nova: https://discord.gg/MWXcwF9J
 
+
 How to install
 First install it on github
-next press the exe
-you will see a warning but just click run away since window's antivirus thinks executors are a virus (it also does it for fluxus)
-wait ten secs
-the gui should pop up
-ALSO, it only uses the microsoft roblox version, make sure you get that
+if you cant install on chrome, get microsoft edge. It will say its a virus because its a executor. Executors like fluxus also do it.
+next, run the exe and wait 10 secs
+once it loads you should see the gui. You need the microsoft version of roblox.
+Once you do, load it in and press inject.
+Congrats, you installed cathub!
